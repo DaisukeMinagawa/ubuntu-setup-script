@@ -1,6 +1,6 @@
 # Ubuntu(Linux)用自動環境構築シェルスクリプト
 
-## Ubuntu/macOS環境構築スクリプトでインストールされるアプリケーションとツール
+## Ubuntu環境構築スクリプトでインストールされるアプリケーションとツール
 
 1. Docker Desktop
    - コンテナ化されたアプリケーションの開発と実行のためのプラットフォーム
@@ -32,7 +32,7 @@
 
 # Ubuntu (Linux) Automatic Environment Setup Shell Script
   
-## Applications and Tools Installed by Ubuntu/macOS Setup Script
+## Applications and Tools Installed by Ubuntu Setup Script
 
 1. Docker Desktop
    - Platform for developing and running containerized applications
